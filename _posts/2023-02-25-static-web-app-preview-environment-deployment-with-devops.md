@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Static Web App preview environment deployment with Azure DevOps"
-date:   2023-02-25 10:42:37 +0200
+date:   2023-02-25 09:42:37 +0200
 categories: staticwebapps, devops, azuredevops, pipelines
 ---
 #Static Web App preview environment deployment with Azure DevOps
